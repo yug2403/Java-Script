@@ -1,2 +1,3 @@
-# Java-Script-
-From Linux Desktop
+# Java-Script
+My journey to learn javaScript as fasr as possible with all the proper knowlegde.
+
