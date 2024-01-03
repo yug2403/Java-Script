@@ -1,4 +1,4 @@
-  console.log("hello__World")
+/*  console.log("hello__World")
 
    // Learning comments
 
@@ -6,7 +6,6 @@
 
    We can  make coment in multiple lines 
    
-   */
 
    var myname = "beau";
 
@@ -19,7 +18,7 @@
    var sum = 10*10;
    var sum = 10/10;
 
-/* Augementation Operation */
+/* Augementation Operation 
    myname++;
    sum--;
 
@@ -30,16 +29,16 @@ myname -= 99
    console.log(myname)
 
 
-   var remainder ;
+ var remainder ;
    remainder =11% 3;
    console.log(remainder)
 
 // Escaping literal Quetes 
-var mystr = ("We have \"Yug\" \"Nakul\" and \"Vedant\"")
+/*var mystr = ("We have \"Yug\" \"Nakul\" and \"Vedant\"")
 console.log(mystr)
 
 // Single Qute for escaping 
- var myStr = ('"We have "Yug" "Nakul" "Vedant""')
+ /*var myStr = ('"We have "Yug" "Nakul" "Vedant""')
 
  console.log(myStr)
 
@@ -53,8 +52,8 @@ console.log(mystr)
 \t   Tab
 \b   Backspace
 \f   Form feed   */
-var Mystr = "FirstLine\n\t\\SecondLine\nthirdLine"
-console.log(Mystr)
+/*var Mystr = "FirstLine\n\t\\SecondLine\nthirdLine"
+console.log(Mystr)*/
 
 // Plus Operator  
 Mystr = "Yug " + "Vardhan"
