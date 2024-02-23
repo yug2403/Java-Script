@@ -33,7 +33,7 @@ console.log(MyOutput)
 
 
 
-// MAke shopping list from Nested Arrays
+// MAke shopping list from Nested Arrays revisied on 23 Feb2024
 
 var Myshopping = [["DogFood",10], ["Cupcakes", 25], ["Flowers", 3]];
 
